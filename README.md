@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @TobysDev<br>🌱 I’m currently learning Java<br>📫 How to reach me Tobys#0215
+👋 Hi, I’m @TobysDev<br><br>📫 How to reach me Tobys#0215
 
 
 ## 🌐 Socials:
